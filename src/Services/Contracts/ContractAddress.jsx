@@ -1,0 +1,1 @@
+export const erc721Address = "0xBa3a344b17CECb24b8d9235aAEC7D0eB8Aa3f847"
