@@ -52,7 +52,7 @@ const AiNft = () => {
     <div className="min-h-screen flex justify-center items-center bg-gradient-to-br from-purple-300 to-purple-800">
       {imageurl && <img src={imageurl} className="image" alt='Ai image' />}
       <div className="max-w-md w-full bg-purple-300 p-8 shadow-md transform transition-all duration-300 hover:scale-105">
-        <h2 className="text-2xl font-bold mb-4">Generate NFT</h2>
+        <h2 className="text-2xl font-bold mb-4">Dishummmmmm</h2>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
             <label htmlFor="email" className="block text-gray-700 font-bold mb-2">Description</label>
